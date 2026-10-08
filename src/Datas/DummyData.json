@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Spice Garden",
+    "cuisine": "Indian",
+    "rating": 4.5,
+    "location": "Chennai, India",
+    "date": "2025-09-10",
+    "image": "https://dummyimage.com/400x300/ffcc00/000000&text=Spice+Garden"
+  },
+  {
+    "id": 2,
+    "name": "Sakura Sushi",
+    "cuisine": "Japanese",
+    "rating": 4.8,
+    "location": "Tokyo, Japan",
+    "date": "2025-09-11",
+    "image": "https://dummyimage.com/400x300/ff6699/000000&text=Sakura+Sushi"
+  },
+  {
+    "id": 3,
+    "name": "La Bella Italia",
+    "cuisine": "Italian",
+    "rating": 4.6,
+    "location": "Rome, Italy",
+    "date": "2025-09-12",
+    "image": "https://dummyimage.com/400x300/66ccff/000000&text=La+Bella+Italia"
+  },
+  {
+    "id": 4,
+    "name": "El Mexicano",
+    "cuisine": "Mexican",
+    "rating": 4.4,
+    "location": "Mexico City, Mexico",
+    "date": "2025-09-13",
+    "image": "https://dummyimage.com/400x300/ff9966/000000&text=El+Mexicano"
+  },
+  {
+    "id": 5,
+    "name": "Le Gourmet",
+    "cuisine": "French",
+    "rating": 4.7,
+    "location": "Paris, France",
+    "date": "2025-09-14",
+    "image": "https://dummyimage.com/400x300/99cc00/000000&text=Le+Gourmet"
+  },
+  {
+    "id": 6,
+    "name": "Dragon Palace",
+    "cuisine": "Chinese",
+    "rating": 4.3,
+    "location": "Beijing, China",
+    "date": "2025-09-15",
+    "image": "https://dummyimage.com/400x300/cc3333/ffffff&text=Dragon+Palace"
+  },
+  {
+    "id": 7,
+    "name": "Burger Hub",
+    "cuisine": "American",
+    "rating": 4.2,
+    "location": "New York, USA",
+    "date": "2025-09-16",
+    "image": "https://dummyimage.com/400x300/3333cc/ffffff&text=Burger+Hub"
+  },
+  {
+    "id": 8,
+    "name": "Tandoori Nights",
+    "cuisine": "Indian",
+    "rating": 4.6,
+    "location": "Delhi, India",
+    "date": "2025-09-17",
+    "image": "https://dummyimage.com/400x300/ffcc33/000000&text=Tandoori+Nights"
+  },
+  {
+    "id": 9,
+    "name": "Casa Española",
+    "cuisine": "Spanish",
+    "rating": 4.5,
+    "location": "Barcelona, Spain",
+    "date": "2025-09-18",
+    "image": "https://dummyimage.com/400x300/ff3333/ffffff&text=Casa+Española"
+  },
+  {
+    "id": 10,
+    "name": "Thai Orchid",
+    "cuisine": "Thai",
+    "rating": 4.4,
+    "location": "Bangkok, Thailand",
+    "date": "2025-09-19",
+    "image": "https://dummyimage.com/400x300/66ff66/000000&text=Thai+Orchid"
+  },
+  {
+    "id": 11,
+    "name": "Mediterraneo",
+    "cuisine": "Mediterranean",
+    "rating": 4.7,
+    "location": "Athens, Greece",
+    "date": "2025-09-20",
+    "image": "https://dummyimage.com/400x300/6699cc/ffffff&text=Mediterraneo"
+  },
+  {
+    "id": 12,
+    "name": "Kebab Express",
+    "cuisine": "Middle Eastern",
+    "rating": 4.3,
+    "location": "Istanbul, Turkey",
+    "date": "2025-09-21",
+    "image": "https://dummyimage.com/400x300/ffcc99/000000&text=Kebab+Express"
+  },
+  {
+    "id": 13,
+    "name": "Ocean Catch",
+    "cuisine": "Seafood",
+    "rating": 4.6,
+    "location": "Sydney, Australia",
+    "date": "2025-09-22",
+    "image": "https://dummyimage.com/400x300/3399ff/ffffff&text=Ocean+Catch"
+  },
+  {
+    "id": 14,
+    "name": "Veggie Delight",
+    "cuisine": "Vegetarian",
+    "rating": 4.2,
+    "location": "Berlin, Germany",
+    "date": "2025-09-23",
+    "image": "https://dummyimage.com/400x300/66cc66/000000&text=Veggie+Delight"
+  },
+  {
+    "id": 15,
+    "name": "BBQ Nation",
+    "cuisine": "Grill",
+    "rating": 4.5,
+    "location": "Texas, USA",
+    "date": "2025-09-24",
+    "image": "https://dummyimage.com/400x300/cc6600/ffffff&text=BBQ+Nation"
+  },
+  {
+    "id": 16,
+    "name": "Punjab Tandoor",
+    "cuisine": "Indian",
+    "rating": 4.6,
+    "location": "Amritsar, India",
+    "date": "2025-09-25",
+    "image": "https://dummyimage.com/400x300/ffcc66/000000&text=Punjab+Tandoor"
+  },
+  {
+    "id": 17,
+    "name": "Tapas Fiesta",
+    "cuisine": "Spanish",
+    "rating": 4.4,
+    "location": "Madrid, Spain",
+    "date": "2025-09-26",
+    "image": "https://dummyimage.com/400x300/ff9966/000000&text=Tapas+Fiesta"
+  },
+  {
+    "id": 18,
+    "name": "Pho House",
+    "cuisine": "Vietnamese",
+    "rating": 4.5,
+    "location": "Hanoi, Vietnam",
+    "date": "2025-09-27",
+    "image": "https://dummyimage.com/400x300/66cccc/000000&text=Pho+House"
+  },
+  {
+    "id": 19,
+    "name": "Greek Taverna",
+    "cuisine": "Greek",
+    "rating": 4.3,
+    "location": "Santorini, Greece",
+    "date": "2025-09-28",
+    "image": "https://dummyimage.com/400x300/3366cc/ffffff&text=Greek+Taverna"
+  },
+  {
+    "id": 20,
+    "name": "Royal Curry",
+    "cuisine": "Indian",
+    "rating": 4.6,
+    "location": "Mumbai, India",
+    "date": "2025-09-29",
+    "image": "https://dummyimage.com/400x300/ffcc33/000000&text=Royal+Curry"
+  },
+  {
+    "id": 21,
+    "name": "Sushi Zen",
+    "cuisine": "Japanese",
+    "rating": 4.8,
+    "location": "Kyoto, Japan",
+    "date": "2025-09-30",
+    "image": "https://dummyimage.com/400x300/ff6699/000000&text=Sushi+Zen"
+  },
+  {
+    "id": 22,
+    "name": "Pizza Roma",
+    "cuisine": "Italian",
+    "rating": 4.5,
+    "location": "Florence, Italy",
+    "date": "2025-10-01",
+    "image": "https://dummyimage.com/400x300/ffcc99/000000&text=Pizza+Roma"
+  },
+  {
+    "id": 23,
+    "name": "Street Tacos",
+    "cuisine": "Mexican",
+    "rating": 4.4,
+    "location": "Cancun, Mexico",
+    "date": "2025-10-02",
+    "image": "https://dummyimage.com/400x300/ff9933/000000&text=Street+Tacos"
+  },
+  {
+    "id": 24,
+    "name": "Crepe Paris",
+    "cuisine": "French",
+    "rating": 4.6,
+    "location": "Lyon, France",
+    "date": "2025-10-03",
+    "image": "https://dummyimage.com/400x300/cc99ff/000000&text=Crepe+Paris"
+  },
+  {
+    "id": 25,
+    "name": "Dim Sum Palace",
+    "cuisine": "Chinese",
+    "rating": 4.3,
+    "location": "Shanghai, China",
+    "date": "2025-10-04",
+    "image": "https://dummyimage.com/400x300/ff3333/ffffff&text=Dim+Sum+Palace"
+  },
+  {
+    "id": 26,
+    "name": "Steakhouse Prime",
+    "cuisine": "American",
+    "rating": 4.7,
+    "location": "Chicago, USA",
+    "date": "2025-10-05",
+    "image": "https://dummyimage.com/400x300/663300/ffffff&text=Steakhouse+Prime"
+  },
+  {
+    "id": 27,
+    "name": "Falafel King",
+    "cuisine": "Middle Eastern",
+    "rating": 4.4,
+    "location": "Dubai, UAE",
+    "date": "2025-10-06",
+    "image": "https://dummyimage.com/400x300/ffcc66/000000&text=Falafel+King"
+  },
+  {
+    "id": 28,
+    "name": "Sea Breeze",
+    "cuisine": "Seafood",
+    "rating": 4.5,
+    "location": "Cape Town, South Africa",
+    "date": "2025-10-07",
+    "image": "https://dummyimage.com/400x300/3399ff/ffffff&text=Sea+Breeze"
+  },
+  {
+    "id": 29,
+    "name": "Green Leaf Cafe",
+    "cuisine": "Vegetarian",
+    "rating": 4.3,
+    "location": "Amsterdam, Netherlands",
+    "date": "2025-10-08",
+    "image": "https://dummyimage.com/400x300/66cc66/000000&text=Green+Leaf+Cafe"
+  },
+  {
+    "id": 30,
+    "name": "Grill Master",
+    "cuisine": "BBQ",
+    "rating": 4.6,
+    "location": "Dallas, USA",
+    "date": "2025-10-09",
+    "image": "https://dummyimage.com/400x300/cc6600/ffffff&text=Grill+Master"
+  },
+  {
+    "id": 31,
+    "name": "Masala Magic",
+    "cuisine": "Indian",
+    "rating": 4.5,
+    "location": "Hyderabad, India",
+    "date": "2025-10-10",
+    "image": "https://dummyimage.com/400x300/ffcc33/000000&text=Masala+Magic"
+  },
+  {
+    "id": 32,
+    "name": "Paella House",
+    "cuisine": "Spanish",
+    "rating": 4.6,
+    "location": "Valencia, Spain",
+    "date": "2025-10-11",
+    "image": "https://dummyimage.com/400x300/ff6600/ffffff&text=Paella+House"
+  },
+  {
+    "id": 33,
+    "name": "Noodle Bowl",
+    "cuisine": "Vietnamese",
+    "rating": 4.4,
+    "location": "Saigon, Vietnam",
+    "date": "2025-10-12",
+    "image": "https://dummyimage.com/400x300/66cccc/000000&text=Noodle+Bowl"
+  },
+  {
+    "id": 34,
+    "name": "Santorini Blue",
+    "cuisine": "Greek",
+    "rating": 4.5,
+    "location": "Mykonos, Greece",
+    "date": "2025-10-13",
+    "image": "https://dummyimage.com/400x300/3366cc/ffffff&text=Santorini+Blue"
+  },
+  {
+    "id": 35,
+    "name": "Butter Chicken House",
+    "cuisine": "Indian",
+    "rating": 4.7,
+    "location": "Pune, India",
+    "date": "2025-10-14",
+    "image": "https://dummyimage.com/400x300/ffcc66/000000&text=Butter+Chicken+House"
+  },
+  {
+    "id": 36,
+    "name": "Samurai Grill",
+    "cuisine": "Japanese",
+    "rating": 4.5,
+    "location": "Osaka, Japan",
+    "date": "2025-10-15",
+    "image": "https://dummyimage.com/400x300/ff6699/000000&text=Samurai+Grill"
+  },
+  {
+    "id": 37,
+    "name": "Trattoria Napoli",
+    "cuisine": "Italian",
+    "rating": 4.6,
+    "location": "Naples, Italy",
+    "date": "2025-10-16",
+    "image": "https://dummyimage.com/400x300/66ccff/000000&text=Trattoria+Napoli"
+  },
+  {
+    "id": 38,
+    "name": "Cantina Mexicana",
+    "cuisine": "Mexican",
+    "rating": 4.4,
+    "location": "Guadalajara, Mexico",
+    "date": "2025-10-17",
+    "image": "https://dummyimage.com/400x300/ff9966/000000&text=Cantina+Mexicana"
+  },
+  {
+    "id": 39,
+    "name": "Bistro Luxe",
+    "cuisine": "French",
+    "rating": 4.7,
+    "location": "Nice, France",
+    "date": "2025-10-18",
+    "image": "https://dummyimage.com/400x300/99cc00/000000&text=Bistro+Luxe"
+  },
+  {
+    "id": 40,
+    "name": "Wok & Roll",
+    "cuisine": "Chinese",
+    "rating": 4.3,
+    "location": "Hong Kong, China",
+    "date": "2025-10-19",
+    "image": "https://dummyimage.com/400x300/cc3333/ffffff&text=Wok+%26+Roll"
+  },
+  {
+    "id": 41,
+    "name": "Big Burger",
+    "cuisine": "American",
+    "rating": 4.2,
+    "location": "Los Angeles, USA",
+    "date": "2025-10-20",
+    "image": "https://dummyimage.com/400x300/3333cc/ffffff&text=Big+Burger"
+  },
+  {
+    "id": 42,
+    "name": "Kebab World",
+    "cuisine": "Middle Eastern",
+    "rating": 4.5,
+    "location": "Doha, Qatar",
+    "date": "2025-10-21",
+    "image": "https://dummyimage.com/400x300/ffcc99/000000&text=Kebab+World"
+  },
+  {
+    "id": 43,
+    "name": "Harbor Fish",
+    "cuisine": "Seafood",
+    "rating": 4.6,
+    "location": "Lisbon, Portugal",
+    "date": "2025-10-22",
+    "image": "https://dummyimage.com/400x300/3399ff/ffffff&text=Harbor+Fish"
+  },
+  {
+    "id": 44,
+    "name": "Veggie Hub",
+    "cuisine": "Vegetarian",
+    "rating": 4.4,
+    "location": "Stockholm, Sweden",
+    "date": "2025-10-23",
+    "image": "https://dummyimage.com/400x300/66cc66/000000&text=Veggie+Hub"
+  },
+  {
+    "id": 45,
+    "name": "Grill House",
+    "cuisine": "BBQ",
+    "rating": 4.5,
+    "location": "Kansas City, USA",
+    "date": "2025-10-24",
+    "image": "https://dummyimage.com/400x300/cc6600/ffffff&text=Grill+House"
+  },
+  {
+    "id": 46,
+    "name": "Royal Feast",
+    "cuisine": "Indian",
+    "rating": 4.7,
+    "location": "Jaipur, India",
+    "date": "2025-10-25",
+    "image": "https://dummyimage.com/400x300/ffcc33/000000&text=Royal+Feast"
+  },
+  {
+    "id": 47,
+    "name": "Sushi Go",
+    "cuisine": "Japanese",
+    "rating": 4.6,
+    "location": "Sapporo, Japan",
+    "date": "2025-10-26",
+    "image": "https://dummyimage.com/400x300/ff6699/000000&text=Sushi+Go"
+  },
+  {
+    "id": 48,
+    "name": "Pasta Milano",
+    "cuisine": "Italian",
+    "rating": 4.5,
+    "location": "Milan, Italy",
+    "date": "2025-10-27",
+    "image": "https://dummyimage.com/400x300/66ccff/000000&text=Pasta+Milano"
+  },
+  {
+    "id": 49,
+    "name": "Taco Loco",
+    "cuisine": "Mexican",
+    "rating": 4.3,
+    "location": "Tijuana, Mexico",
+    "date": "2025-10-28",
+    "image": "https://dummyimage.com/400x300/ff9966/000000&text=Taco+Loco"
+  },
+  {
+    "id": 50,
+    "name": "Cafe de Paris",
+    "cuisine": "French",
+    "rating": 4.8,
+    "location": "Paris, France",
+    "date": "2025-10-29",
+    "image": "https://dummyimage.com/400x300/99cc00/000000&text=Cafe+de+Paris"
+  }
+]
