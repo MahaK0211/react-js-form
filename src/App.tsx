@@ -1,12 +1,13 @@
 import React from "react";
 import SampleForm from "./pages/SampleForm";
 import { Route, Routes } from "react-router-dom";
-import Tabel from "./pages/Tabel";
+import Tabel from "./pages/sampleform/Tabel";
 import SampleAirbnbSite from "./pages/SampleAirbnbSite";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
-import FileInput from "./pages/FileInput";
-import SampleCURD from "./pages/SampleCURD";
+import FileInput from "./pages/sampleform/FileInput";
+import SampleCURD from "./pages/sampleform/SampleCURD";
+import HooksConcepts from "./pages/react-hooks/HooksConcepts";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/sample" element={<SampleAirbnbSite />} />
         <Route path="file" element={<FileInput />} />
         <Route path="curd" element={<SampleCURD />} />
+        <Route path="hooks" element={<HooksConcepts />} />
       </Routes>
       <Footer />
     </div>
