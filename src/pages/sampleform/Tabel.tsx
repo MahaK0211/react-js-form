@@ -1,5 +1,5 @@
 import axios from "axios";
-import DataTabel from "../Components/DataTabel";
+import DataTabel from "../../Components/DataTabel";
 import { useEffect, useState } from "react";
 
 function Tabel() {
